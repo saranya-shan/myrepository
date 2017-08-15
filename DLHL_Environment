@@ -1,0 +1,79 @@
+Lufthansa Details on GX:
+
+SARANYA / saranya1 is your login to SVWUAT2B
+SVWUAT2B_MAIN
+
+Path for XML:
+/svw/svwuat2b/data/server/invoices 
+
+ALM:https://alminmarsat12.saas.hp.com/qcbin/start_a.jsp
+
+SVWUAT2B – Master Node
+Host IP address – 10.141.244.20
+10.141.243.20
+SVWUAT2B – Backup Node
+Host IP Address – 10.141.244.21
+Username (For both) – svwuat2b
+Password (For both) – D3m0n5trAt10n
+SVWPRF1B – Master Node
+Host IP address – 10.141.244.20
+SVWPRF1B – Backup Node
+Host IP address – 10.141.244.21
+Username (For both) – svwprf1b
+Password (For both) – D3m0n5trAt10n
+SVWSPT1B – Master Node
+Host IP address – 10.130.241.21
+ 
+SVWSPT1B – Backup Node
+Host IP Address – 10.130.241.22
+Username (For both) – svwspt1b
+Password (For both) – D3m0n5trAt10n 
+
+
+
+EAI_UAT_dlh.uat
+DB:
+
+10.30.136.21
+EAI_UAT
+q23EdfT
+
+DLH_UAT for data store tables
+10.30.136.21
+1532
+eaidev
+DB_USER=DLH_UAT 
+DB_PASSWD=3X5FOUVJ
+
+
+
+UAT EAI :
+UAT
+10.30.135.40
+uateai
+cat92loG
+
+
+EAI Dev:
+
+Dev EAI:
+10.30.135.40
+Path: /eaidev/appl/liveeai/dev/eai/dlh
+http://10.141.244.20:50253/services/SEP.SEPHttpSoap11Endpoint - SV GX
+
+
+
+Development
+Login credentials for deveai: 
+login: deveai 
+pass: d3v3@1 
+the datastore functionality is located in /eaidev/appl/liveeai/dev/eai/dlh/ directory. 
+
+
+
+
+
+
+
+
+
