@@ -1,0 +1,9 @@
+In the mean time, you can download TestingWhiz Free Trial for 30-days.
+Query Surge
+Jenkins
+Git hubs
+
+
+Specifically talking about big data testing, TestingWhiz provides automated Big Data testing solution, which helps you to verify structured and unstructured data sets, schemas, approaches and inherent processes residing at different sources in your application. This also helps you to validate volume, variety and velocity of data. For better clarity, you can visit the website & download its Free trial version of this tool and experience automated testing of big data applications.
+
+Few more tools like Query surge, Tricentis are also used for big data testing.
