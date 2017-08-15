@@ -1,0 +1,15 @@
+'''
+Created on 13 Jul 2017
+
+@author: saranya shanmugam
+'''
+import webbrowser
+import time
+
+total_break =4;
+Break_count = 0
+print ("Countdown starts on "+time.ctime())
+while(Break_count<total_break):
+    time.sleep(10)
+    webbrowser.open_new("https://www.youtube.com/watch?v=L0HSqMdGLzs")
+    Break_count = Break_count+1
